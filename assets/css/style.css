@@ -1,0 +1,39 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 56px; 
+}
+
+ .hero-section {
+  background: url('../images/hero-bg.png') 
+              no-repeat center center/cover;
+  height: 60vh;
+}  
+
+
+
+.hero-title {
+  color: #0a121a; 
+}
+
+.brand-name {
+  color: #1f1e1d; 
+}
+
+.hero-subtitle {
+  color: #1c1a1a; 
+}
+
+
+.btn-custom {
+  background-color: #c81468; 
+  color: #fff;
+  border: none;
+  padding: 10px 25px;
+  font-size: 1.1rem;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+  background-color: #1976d2; 
+}
